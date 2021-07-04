@@ -1,0 +1,17 @@
+{
+    "Online experience":{
+        "Username":"Louise",
+        "Email":"Bastienloiuse@gmail.com",
+        "Complaint":"Le site Web n'est pas convivial. Je ne pouvais pas le naviguer facilement."
+    },
+    "Product quality.":{
+        "Username":"Antoinette",
+        "Email":"Aim\u00e9eAntoinette@gmail.com",
+        "Complaint":"La robe que j'ai command\u00e9e n'est pas la qualit\u00e9.C'est trop l\u00e9ger pour moi, contrairement \u00e0 celui que j'ai vu sur le site Web."
+    },
+    "Credit card procedures":{
+        "Username":"Bernadette",
+        "Email":"Bernadette22@gmail.com",
+        "Complaint":"J'ai eu un probl\u00e8me de payer pour mes robes d\u00e9sir\u00e9es, le Web me retirait.Que puis-je faire, s'il vous pla\u00eet?"
+    }
+}

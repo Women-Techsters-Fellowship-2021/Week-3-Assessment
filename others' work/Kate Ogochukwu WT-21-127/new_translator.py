@@ -10,10 +10,10 @@ User Case Story (Team)
 4. The system should be able to detect the language used in a complain text
 5. The system should be able to translate from one language to the other base on specification
 
-'''
+# '''
 
-import json 
-import requests 
+# import json 
+# import requests 
 
 
 name = input("Dear customer, enter your name: ")
